@@ -1,0 +1,18 @@
+{
+  "name": "vercel-support",
+  "version": "1.0.0",
+  "description": "vercel-support",
+  "main": "api/gcp.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chadcrume/vercel-support-gcpintegration.git"
+  },
+  "scripts": {},
+  "author": "Chad crume",
+  "bugs": {},
+  "dependencies": {
+    "@google-cloud/storage": "^5.8.4"
+  },
+  "devDependencies": {}
+}
